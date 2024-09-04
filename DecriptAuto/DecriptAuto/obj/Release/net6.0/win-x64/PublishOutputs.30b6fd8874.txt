@@ -1,0 +1,5 @@
+C:\Users\Híbrida\source\repos\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Híbrida\source\repos\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\Híbrida\source\repos\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x64\PubTmp\Out\DecriptAuto.pdb
+C:\Users\Híbrida\source\repos\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\Users\Híbrida\source\repos\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x64\PubTmp\Out\DecriptAuto.exe

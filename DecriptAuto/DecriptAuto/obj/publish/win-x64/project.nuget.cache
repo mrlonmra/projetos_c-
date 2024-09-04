@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "remwMQjN3RsIfKFLP994HsDYMEf3+OfmtuCgStZ+LNVtYSEwCg06DztkH7LSD0/9g/El0W94C7x7pNOK6HQnOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Híbrida\\source\\repos\\DecriptAuto\\DecriptAuto\\DecriptAuto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Híbrida\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.23\\microsoft.netcore.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\Híbrida\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.23\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\Híbrida\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.23\\microsoft.aspnetcore.app.runtime.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
